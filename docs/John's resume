@@ -1,0 +1,284 @@
+<html>
+	
+
+<head>
+
+ <meta name="description" content="Resume">
+ <meta name="keywords" content="HTML, CSS, JavaScript">
+ <meta name="author" content="John David Busby">
+
+		
+    <style>
+
+a:link {
+  color: #66ff66;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lavender;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: lavender;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+      /* h4's header is color honey color */
+        h4 {
+            color: #ffcc33;
+            margin-top: -20px;    
+	    margin-left: 70px; 
+	    font-family:Book Antiqua;
+           }
+        
+/* h3's header is color white */
+        h3 {
+             color: ffffff;
+	     margin-bottom: -10px;
+	     font-size: 25px;
+             
+           }    
+/* h2's header is color Orange */
+        h2 {
+             color: #ff8c1a;
+             margin-left: 40px;
+	     font-size: 20px;
+           }
+
+
+
+body {
+  background-color: 990000;
+   */background-image: url("Logo3.png");/* 
+  background-size: 950px 950px;
+  background-repeat: repeat-y;
+}
+<!--Find CSS background image command for inserting a picture from the desktop,  
+which will also allows enrollment with background color command as well.-->
+<!-- Make Sith sigil as part of semi-transparent background -->
+ </style>   
+
+<!-- Print command-->
+<script>
+function printPage() {
+  window.print();
+}
+</script>
+
+
+</head>
+
+	
+
+	 <body>
+		
+
+		<center><h3>John Busby</h3>
+		
+		<A HREF="http://www.lolyourdomain.com/">john.busby@kyotoiu.ac.jp</A> 
+		</center>
+		<p>
+		
+
+
+
+ <title>John David Busby Resume</title>
+  <link rel="icon" type="image/x-icon" href="file://///StudentFS/AcadRedirected$/John.Busby/Desktop/favicon.ico">
+
+
+
+
+
+
+
+<!-- Change the background from Sith emblem to Jedi Sigil, then to Eternal Empire sigil
+whenever clicked the "button".  Also change to background with another button.-->
+
+
+<input type="button"value="Print this resume" onclick="printPage()"/>
+
+
+
+
+
+<!--Add a command of Sith emblem image with additional button command pops out the message of
+"Sith sigil" from Star Wars.-->
+
+
+
+		
+			<h2>Educational Goals</h2>
+
+		<OL type="1">
+			 <h4>
+			 <LI>Graduate from KIUA with a Bilingual diploma.
+			 <LI>Become certified in Japanese “Nihongo kentei Grade 1” (日本語検定一級)
+			 <LI>Become certified in Japanese “EIKEN Grade 1” (英検一級)
+			 <LI>Obtain a “JTF Translator Certificate”, first rank (JTFほんやく検定 一級), Japanese - English 
+			 <LI>Obtain a “JTA Official Professional Translator” Certificate (JTA公認翻訳専門職資格試),  Japanese - English.
+			 </h4>
+		</OL>
+
+			<h2>Professional Goals</h2>
+	
+		<OL type="1">
+		<h4>
+			<LI>Become a writer, and 
+				<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+  				<li style="margin-left:2em">publish both in English and Japanese</li>
+  				<li style="margin-left:2em">and write a Star Wars novel.</li>
+		
+			</ol>
+			
+
+
+			
+			<LI>Become independent as a writer
+				<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+	  		 	<li style="margin-left:2em">Translating in English and Japanese.</li>  	
+				</ol>
+</h4>
+		</OL>
+
+	
+			<h2>Academics</h2>
+
+		<OL type="1">
+<h4>
+			<LI>Kyoto International University (KIU). Kyoto, Japan (2022-Current)
+				
+				<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+				<li style="margin-left:2em">Took college courses in Principles of Microeconomics, [add Sept. 2022 courses].</li>
+				</ol> 
+			
+			<LI>Kyoto International University Academy (KIUA). Kyoto, Japan (2020-Current)
+				<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+				<li style="margin-left:2em">Bilingual diploma (English-Japanese).</li>
+				<li style="margin-left:2em">Career GPA 3.575 out of 4.0 for High School</li>  
+				<li style="margin-left:2em">Outstanding Achievement in Japanese as a Second Language (2021-2022)</li>  
+				<li style="margin-left:2em">Outstanding Achievement in Physical Education (2021-2022)</li>
+				</ol>
+		
+
+			<LI>Grace Christian International School, Tokyo, Japan (2019-2020)
+			<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+				<li style="margin-left:2em">Also took online classes with Calvary Christian Academy. California, United States (2019-2020) [add Sept. 2022 courses].</li>
+				</ol> 
+			<LI>Career GPA 3.575.
+</h4>
+		</OL>
+			
+			
+			<h2>Curricular Activities</h2>
+
+		<OL type="1">
+<h4>
+				<LI>Baseball club (2021 Spring semester)
+				<LI>Sports day Committee member as 
+				<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+				<li style="margin-left:2em">music equipment manager (2020)</li>
+				<li style="margin-left:2em">music equipment manager and also as MC for English speakers (2021)</li>
+				</ol>
+</h4>
+		</OL>
+
+
+
+			<h2>Accomplishments</h2>		
+		
+		<OL type="1">
+				<h4><LI>Own JLPT N1 certificates</h4>
+
+		</OL>
+		
+			
+			<h2>Technical experience</h2>
+		
+		<OL type="1">
+<h4>
+				<LI>Office Applications: Microsoft Office, Powerpoint(2 years), 
+				    			Excel(1 week), Word(1 week); Google Workspace, 
+							Gmail(5 years), Google docs(5 years), 
+				    			and Google Slides(5 years).
+				
+				<LI>Video: iMovie(half year), Elgato HD60 S+(half year) 
+				
+				<LI>Programming Languages: Scratch(1 trimester), Bloxter(1 trimester),
+				       Coffee script(1 trimester), HTML(1 trimester), CSS(1 trimester), and Javascript(1 trimester)
+</h4>
+		</OL>
+			
+
+			<h2>Extracurricular activities</h2> 
+ 		<OL type="1">
+<h4>
+				<LI>Volunteer:
+				<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+				<li style="margin-left:2em">Volunteered for the church's summer camps in the role of translator and as a team leader’s assistant, (church name)(2021).</li>
+				<li style="margin-left:2em">Volunteered as a tour guide for oversea teams from the United States when visiting Japan’s popular sightseeing areas(2018).</li>
+				</ol> 
+</h4>			
+		</OL>			
+		
+<h4>
+		<OL type="1">
+				<LI>Swimming:
+					<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+					<li style="margin-left:2em">Placed 8th place for the Aquatheron championship at Musashino, Tokyo, Japan(2018 or 2019).</li>
+					<li style="margin-left:2em">Practicing for over 13 years(2009-Present).</li>
+				</ol>
+
+				<LI>Video Making:
+					<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+					<li style="margin-left:2em">Made my own gaming channel on Youtube and then uploaded some of my edited videos. (Youtube channel: Recent name; “John Busby”, used to be “Espaul Commander”)
+				</ol>
+				
+				<LI>Guitar:
+					<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+					<li style="margin-left:2em">Practiced basic key elements of code, melody, and base(2018-2021)</li>  
+				</ol>
+</h4>
+		</OL>
+
+		
+				<h2>Work experience</h2>     
+
+					<OL type="1">
+					
+<h4>
+					<LI>Private tutor, JSL. KIU Academy, Kyoto, Japan (2022 Spring semester- Present)
+		
+					<LI>Teacher Assistant, JSL.  KIU Academy. Kyoto, Japan (2021 Fall semester-2022 Winter semester)
+		
+					<LI>Assisted the teacher by reading out the listening questions for their weekly quiz.
+			
+					<LI>Assisted students by helping/answering student questions.
+			
+					<LI>Day employment of retriving maintenancing fire extinguishers. Dan’s fire extinguisher management, Alabama, United States (2019)
+					
+					</OL>
+
+	 
+</h4>
+
+	</body>
+
+	 <footer>
+
+<!--Make sure to indicate explanations for each different type of codes being used.-->
+	 </footer>
+
+</html>
